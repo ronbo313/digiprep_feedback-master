@@ -1,0 +1,13 @@
+1. What were you expecting to learn by participating in the Code Management for Non-Programmers workshop?
+basic intro to GitHub.  its usefulness for SSDS projects.
+2. Did this meet your expectationsyes.  tho' i'm still a bit confused on the concepts/terminology, etc.  just need to keep using it for a real project.3. What went well in the Code Management for Non-Programmers workshop?
+installing the GUI.  branching, cloning, forking, 
+4. What went not so well?
+sometimes not sure how to proceed (e.g., on responding to a pull request)
+5. What could be improved upon for next time?
+perhaps a glossary of GitHub terms and definitions?
+GitHub may benefit from a follow-up session, or users' group.
+6. What was your favorite aspect of the Code Management for Non-Programmers workshop?
+hands-on
+7. Would you be interested in an advanced version of this workshop? If so, what types of applications or concepts would you like to see addressed?
+i think most learning will be through a real project.  this could benefit from a community of users to help each other out (similar to the Drupal community).
